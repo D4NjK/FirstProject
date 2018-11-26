@@ -1,0 +1,62 @@
+.block {
+  background-color: lightgray;
+  margin-left:100px;
+  margin-right:100px;
+  margin-bottom:0px;
+  height:1500px;
+}
+.head {
+  height:200px;
+  background-image: url(http://dgdesign.ru/uploads/posts/2016-09/1475063436_kartinka-dlya-shapki-sayta-tematiki-internet-jf6.jpg) ;
+}
+.Hello {
+  background-color:gray;
+  width:600px;
+  margin-left:200px;
+}
+
+.Menu {
+ background-color: white;
+ height:200px;
+ margin-top: 25px;
+ margin-left:100px;
+ margin-right:100px;
+}
+
+body {
+  background-color: gray;
+}
+.main {
+background-image:url(https://ext.mysku-st.ru/250/gloimg.gearbest.com/gb/pdm-product-pic/Electronic/2016/08/30/source-img/20160830135917_30947.jpg);
+width:250px;
+height:200px;
+float:left;
+
+}
+.A {
+    float:left;
+    margin: 25px 25px 25px 25px;
+    width:105px;
+    height:60px;
+    text-decoration: underline;
+}
+.B{
+  float:left;
+  margin: 25px 25px 25px 25px;
+  width:166px;
+  height:60px;
+  text-decoration: underline;
+}
+.C{
+  float:left;
+  margin: 25px 25px 25px 25px;
+  width:210px;
+  height:60px;
+  text-decoration: underline;
+}
+.D{
+  float:left;
+  margin: 25px 25px 25px 25px;
+  width:250px;
+  height:150px
+}
