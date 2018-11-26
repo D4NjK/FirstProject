@@ -1,0 +1,60 @@
+.ss{
+  color:blue;
+  font-size: 100px;
+}
+.sq{
+ color:green;
+ font-size: 80px;
+}
+.sw{
+ color:white;
+ font-size:80px;
+}
+.se{
+ color:yellow;
+ font-size: 80px;
+}
+.sr{
+color:red;
+font-size: 80px;
+}
+a{
+  color:gold;
+}
+a:hover{
+  color:red;
+  opacity:0.7;
+  filter:alpha(opacity=70);
+}
+.head{
+  background-color:rgba(27, 26, 26, 0.96);
+  height: 290px;
+  border-radius: 100px/200px;
+}
+body{
+  background:url(http://www.doors007.ru/images/room_doors/colors/gray_dub.jpg) repeat;
+  background-size:auto;
+  margin-left:0px;
+  margin-top: -20px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  font-family: fantasy;
+}
+.fixed{
+  height: 100px;
+  width:100px;
+  background:url(http://s1.iconbird.com/ico/2013/11/504/w128h1281385326439arrowup.png);
+  background-size: cover;
+  top:20px;
+  left:1500px;
+  position: fixed;
+  opacity: 0.6
+}
+.fixed:hover{
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+label{
+  float:left;
+ width: 100px;
+}
